@@ -1,17 +1,26 @@
 site_name: Parth Virani Guides
-site_url: https://james-willett.github.io/parthvirani-notes/
+site_url: https://parthvirani-oceanmtech.github.io/parthvirani-notes/
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.instant
     - toc.integrate
     - navigation.top
-    - search.suggest
-    - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - search.suggest
+    - search.highlight
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+
   language: en
   palette:
     - scheme: default
@@ -29,6 +38,7 @@ theme:
 
 plugins:
   - social
+  - search
 
 extra:
   social:
@@ -57,4 +67,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/parthvirani-oceanmtech"  target="_blank" rel="noopener">James Willett</a>
+  &copy; 2023 <a href="https://github.com/parthvirani-oceanmtech"  target="_blank" rel="noopener">Parth Virani Oceanmtech Pvt Ltd</a>
