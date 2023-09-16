@@ -11,12 +11,8 @@
             "id": "50aea7553c1e0cd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter Notes/Code Pratice/Keep UI and Business Logic Separated.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter Notes/Code Pratice/Keep UI and Business Logic Separated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flutter Notes/Code Pratice/Keep UI and Business Logic Separated.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,21 +167,51 @@
   },
   "active": "50aea7553c1e0cd1",
   "lastOpenFiles": [
-    "Flutter Notes/Code Pratice/Best Code Pratice In Flutter - OceanMTech Pvt Ltd Coding Rules.md",
-    "Flutter Notes/Code Pratice/Explain Analyse and Format Your Code.md",
-    "Format your notes.md",
-    "index.md",
-    "Notes/Static Site Generators/Note Sharing.md",
-    "Notes/Static Site Generators/Hugo.md",
-    "Notes/Static Site Generators/Gatsby.md",
-    "Notes/Apps.md",
-    "Notes/Linux.md",
-    "Notes/Database.md",
-    "Notes/Helm Package Manager.md",
-    "Notes/DevOps.md",
-    "Flutter Notes/Code Pratice/Avoid Deep Widget Nesting.md",
-    "Notes/Components.md",
-    "Flutter Notes/Code Pratice/Stay Up-to-Date.md",
-    "Flutter Notes/Code Pratice/Use Proper Widget Composition.md"
+    "docs/Flutter Notes/Code Practice/Explaination/Use Proper Widget Composition.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Use Flutter DevTools.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Test Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Stay Up-to-Date.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Keep UI and Business Logic Separated.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Use Version Control.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Use Descriptive Variable and Function Names.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Properly Comment Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Organize Code into Small Functions and Classes.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Follow the Dart Style Guide.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Document Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Explain Analyse and Format Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explaination/Avoid Deep Widget Nesting.md",
+    "docs/Flutter Notes/Code Practice/Explaination",
+    "docs/Flutter Notes/Code Practice/Use Proper Widget Composition.md",
+    "docs/Flutter Notes/Code Practice/Use Flutter DevTools.md",
+    "docs/Flutter Notes/Code Practice/Test Your Code.md",
+    "docs/Flutter Notes/Code Practice/Stay Up-to-Date.md",
+    "docs/Flutter Notes/Code Practice/Keep UI and Business Logic Separated.md",
+    "docs/Flutter Notes/Code Practice/Explain Use Version Control.md",
+    "docs/Flutter Notes/Code Practice/Explain Use Descriptive Variable and Function Names.md",
+    "docs/Flutter Notes/Code Practice/Explain Properly Comment Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explain Organize Code into Small Functions and Classes.md",
+    "docs/Flutter Notes/Code Practice/Explain Follow the Dart Style Guide.md",
+    "docs/Flutter Notes/Code Practice/Explain Document Your Code.md",
+    "docs/Flutter Notes/Code Practice/Explain Analyse and Format Your Code.md",
+    "docs/Flutter Notes/Code Practice/Best Code Pratice In Flutter - OceanMTech Pvt Ltd Coding Rules.md",
+    "docs/Flutter Notes/Code Practice",
+    "docs/Flutter Notes/Code Pratice",
+    "docs/Flutter Notes",
+    "docs/Parth Notes/Pre-Requisites/Linux Journeys/Grasshopper",
+    "docs/Parth Notes/Pre-Requisites/Linux Journeys/Networking Nomad",
+    "docs/Parth Notes/Pre-Requisites/Linux Journeys/Journeyman",
+    "docs/Parth Notes/Pre-Requisites/Linux Journeys",
+    "docs/Parth Notes/Pre-Requisites",
+    "docs/Parth Notes",
+    "docs/Notes/Programming/attachments/Pasted image 20220613194732.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220518222310.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220518222221.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220516114146.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220514202214.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220514111221.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220514201314.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220514110209.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220514110201.png",
+    "docs/Notes/AWS Solutions Architect Associate/attachments/Pasted image 20220514105206.png"
   ]
 }
